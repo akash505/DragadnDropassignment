@@ -62,11 +62,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-
-###  For Connecting through Arrow 
-For connecting one card to another click on the black dot and hold the mouse button it shows the line with arrow and drop in the next card black dot.
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###  For Connecting through Arrow 
+For connecting one card to another click on the black dot and hold the mouse button it shows the line with arrow and drop in the next card black dot.
+![Screenshot 2024-08-15 012919](https://github.com/user-attachments/assets/ec3c5d94-7e45-401e-be40-d97bb97292db)
